@@ -21,7 +21,7 @@ Smart Contact Manager is a full-stack **Spring Boot web application** that helps
 ---
 
 ## 🛠️ Tech Stack
-
+  
 ### Backend
 
 * Java 21
