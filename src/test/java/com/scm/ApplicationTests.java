@@ -17,21 +17,6 @@ class ApplicationTests {
 	void contextLoads() {
 	}
 
-//
-//	void testUnits() {
-//
-//
-//		int result=40;
-//
-//		 List<String>  list = List.of("ram","shyam","ankit");
-//
-////		assertThat(result).isEqualTo(50);
-//
-//		 assertThat(list).asList().size().isGreaterThan(5);
-//
-//
-//
-//
-//	}
+//add ur code
 
 }
