@@ -16,16 +16,7 @@ class ApplicationTests {
 
 	void contextLoads() {
 	}
-//
-//	@Autowired
-//	private EmailService service;
-//
-//
-//	void sendEmailTest() {
-//		service.sendEmail("batchlcwd@gmail.com", "Just managing the emails",
-//				"this is scm project working on email service");
-//	}
-//
+
 //
 //	void testUnits() {
 //
